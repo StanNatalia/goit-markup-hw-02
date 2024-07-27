@@ -50,20 +50,16 @@ color: #434455;
 .menu-link:focus,
 .addres-link:hover,
 .addres-link:focus {
-color: #404bbf;
-}
-.main {
-width: 1440px;
-height: 600px;
+color: #404BBF;
 }
 .hero {
 background: #2e2f42;
 }
 .hero-title {
+    
     font-weight: 700;
     font-size: 56px;
-    line-height: 60px; 
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
@@ -79,11 +75,6 @@ letter-spacing: 0.04em;
 color: #fff;
 cursor: pointer;
 }
-.advantage {
-width: 1128px;
-height: 104px;
-}
-
 .advantage-item-title{
     
     font-weight: 500;
@@ -101,10 +92,13 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .people {
-    width: 1440px;
-    height: 732px;
+color: #F4F4FD;
+}
+.people-list {
+background-color: #FFFFFF
 }
 .people-title {
+text-transform: capitalize
 font-weight: 700;
 font-size: 36px;
 line-height: 40px; 
@@ -133,6 +127,7 @@ color: #434455;
 .portfolio {
 }
 .portfolio-title {
+text-transform: capitalize
 font-weight: 700;
 font-size: 36px;
 line-height: 40px; 
