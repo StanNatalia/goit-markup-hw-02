@@ -46,13 +46,17 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.menu-link:hover,
-.menu-link:focus {
-color: #404BBF;
+.menu-link:hover {
+background-color: #404BBF
 }
-.addres-link:hover,
+.menu-link:focus {
+    background-color: #404BBF;
+}
+.addres-link:hover {
+    background-color: #404BBF
+}
 .addres-link:focus {
-color: #404BBF;
+    background-color: #404BBF;
 }
 .hero {
 background: #2e2f42;
@@ -109,7 +113,7 @@ color: #2e2f42;
 }
 
 .people-title {
-    text-transform: capitalize\
+    text-transform: capitalize
 }
 .people-list {
 background-color: #FFFFFF
