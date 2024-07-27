@@ -47,14 +47,14 @@ color: #434455;
 }
 
 .menu-link:hover {
-background-color: #404BBF
+background-color: #404BBF;
 }
 .menu-link:focus {
-background-color: #404BBF
+background-color: #404BBF;
 }
 
 .addres-link:hover, {
-color: #404BBF
+color: #404BBF;
 }
 .addres-link:focus {
 color: #404BBF;
@@ -102,7 +102,7 @@ background-color: #F4F4FD;
 }
 
 
-.people-list {
+.people-item {
 background-color: #FFFFFF
 }
 .people-title {
