@@ -46,14 +46,14 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.menu-link:hover {
-background-color: #404BBF;
+.menu-item:hover {
+color: #404BBF;
 }
-.menu-link:focus {
-background-color: #404BBF;
+.menu-item:focus {
+color: #404BBF;
 }
 
-.addres-link:hover, {
+.addres-link:hover {
 color: #404BBF;
 }
 .addres-link:focus {
@@ -80,6 +80,10 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
 cursor: pointer;
+}
+
+.buttom {
+    background-color: #404BBF
 }
 .advantage-item-title{
     
