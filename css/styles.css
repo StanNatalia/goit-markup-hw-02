@@ -85,6 +85,12 @@ cursor: pointer;
 .button {
 background-color: #4D5AE5;
 }
+.button:hover {
+background-color: #404BBF;
+}
+.button:focus {
+    background-color: #404BBF;
+}
 .advantage-item-title{
     
     font-weight: 500;
