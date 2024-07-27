@@ -47,12 +47,13 @@ color: #434455;
 }
 
 .menu-link:hover {
-color: #404BBF
+background-color: #404BBF
 }
 .menu-link:focus {
-color: #404BBF;
+background-color: #404BBF
 }
-.addres-link:hover {
+
+.addres-link:hover, {
 color: #404BBF
 }
 .addres-link:focus {
@@ -99,6 +100,8 @@ color: #434455;
 .people {
 background-color: #F4F4FD;
 }
+
+
 .people-list {
 background-color: #FFFFFF
 }
